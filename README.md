@@ -1,5 +1,7 @@
 # Strapdown.js
 
+strapdown.js HTML 内嵌 Markdown 的静态解决方案
+
 Strapdown.js makes it embarrassingly simple to create elegant Markdown documents. No server-side compilation required. 
 
 For more, please see:
